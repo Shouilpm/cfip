@@ -1,0 +1,75 @@
+{
+  "exportTime": 1777717333743,
+  "randomCode": "8v9xeoo7",
+  "randomCodeHistory": [],
+  "tokenType": "classic",
+  "encryptedToken": "==gY4Q1NjRDN5oUSUVVQSJ3a4EENYFFMBRTeuRHTTZTRoV1TVd3Xwh2Z",
+  "sourceV4": false,
+  "v4Slider": 2000,
+  "sourceV6": false,
+  "v6Slider": 1000,
+  "customUrl": "",
+  "customInput": "",
+  "channels": [
+    {
+      "id": 1,
+      "name": "电信宽带",
+      "builtIn": true
+    },
+    {
+      "id": 2,
+      "name": "移动宽带",
+      "builtIn": true
+    },
+    {
+      "id": 3,
+      "name": "电信5G",
+      "builtIn": true
+    }
+  ],
+  "selectedRegions": [],
+  "selectedTypes": [
+    "v4",
+    "v6"
+  ],
+  "selectedPorts": [],
+  "latencyThreshold": 9999,
+  "exportFormat": "{ip}#{idx}-{type}-{port}-{colo}-{latency}ms",
+  "exportLimit": "100",
+  "app_theme": "dark",
+  "gh_owner": "Shouilpm",
+  "gh_repo": "cfip",
+  "gh_dir": "ip/",
+  "gh_branch": "main",
+  "gh_auto_repo": true,
+  "privateDir1": "ip",
+  "privateDir2": "",
+  "privateFilePrefix": "",
+  "privateUuid": "0d80225e-8c0b-4a9e-9c89-b8c63fc0d96e",
+  "privateDomain": "",
+  "privatePath": "/?ed=2048",
+  "privateSecurity": "none",
+  "privateType": "ws",
+  "privateEncryption": "none",
+  "privateFlow": "",
+  "privateAlpn": "",
+  "privateFp": "random",
+  "privateAllowInsecure": "1",
+  "githubApiUrl": "",
+  "adaptiveApi": "",
+  "vlessMode": "template",
+  "templateParams": {
+    "uuid": "86339d98-5e2d-4b8a-a39f-c433016f2a1f",
+    "host": "zjx102822.pages.dev",
+    "port": "16920",
+    "path": "/?ed=2048",
+    "security": "tls",
+    "encryption": "none",
+    "flow": "",
+    "alpn": "h3",
+    "fp": "chrome",
+    "allowInsecure": "1",
+    "sni": "zjx102822.pages.dev",
+    "type": "ws"
+  }
+}
